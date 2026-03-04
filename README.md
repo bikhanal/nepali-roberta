@@ -13,7 +13,7 @@ This repository contains code to train a Byte-Level Byte Pair Encoding (BPE) tok
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/bkhanal-11/nepali-roberta
+git clone https://github.com/bikhanal/nepali-roberta
 cd nepali-roberta
 ```
 2. **Download Dataset** 
